@@ -1,11 +1,13 @@
-API_KEY = ""
-SECRET_KEY = ""
+API_KEY = "PKZZOGAN2C7GGYZ11SPW"
+SECRET_KEY = "PKZZOGAN2C7GGYZ11SPW"
 
-ALPACA_CONFIG = {
+ALPACA_CONFIG = [
+    
+]
 # Put your own Alpaca key here:
-"API_KEY": "",
+"API_KEY": "PKZZOGAN2C7GGYZ11SPW",
 # Put your own Alpaca secret here:
-"API_SECRET": "",
+"API_SECRET": "Alpaca Login",
 # If you want to go live, you must change this
-"ENDPOINT": "https://paper-api.alpaca.markets",
-}
+"ENDPOINT": "www.gmail.com"
+
